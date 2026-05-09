@@ -1,4 +1,4 @@
-export class Queue {
+export class Stack {
 
     constructor() {
         this.items = []          
